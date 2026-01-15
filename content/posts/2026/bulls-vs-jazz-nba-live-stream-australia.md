@@ -2,11 +2,9 @@
 title: 'Bulls vs Jazz: NBA Live Stream Guide for Australian Fans 2026'
 date: '2026-01-15T10:00:00+11:00'
 slug: /bulls-vs-jazz-nba-live-stream-australia/
-description: >-
-  Complete guide to watching Bulls vs Jazz in Australia. NBA live stream
+description: Complete guide to watching Bulls vs Jazz in Australia. NBA live stream
   options, AEST times, and how to watch NBA games in 2026.
-image: >-
-  https://images.pexels.com/photos/17194684/pexels-photo-17194684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: https://images.pexels.com/photos/17194684/pexels-photo-17194684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 caption: Photo by @coldbeer
 personalities:
   - Chicago Bulls
