@@ -2,7 +2,7 @@
 title: "Bulls vs Nets: 2026 NBA Game - Live Stream Guide & Analysis"
 date: 2026-01-15T12:00:00-05:00
 slug: /bulls-vs-nets-2026-nba-preview/
-description: Watch Chicago Bulls vs Brooklyn Nets in 2026: Complete NBA game guide, live stream options for US fans, and matchup analysis.
+description: "Watch Chicago Bulls vs Brooklyn Nets in 2026: Complete NBA game guide, live stream options for US fans, and matchup analysis."
 image: https://images.pexels.com/photos/19964545/pexels-photo-19964545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 caption: Photo by @coldbeer
 personalities:
