@@ -1,10 +1,10 @@
 ---
 title: "Al-Ittihad vs Al-Ettifaq: 2026 Saudi Pro League Game - How to Watch"
 date: "2026-01-15T12:00:00-05:00"
-slug: /al-ittihad-vs-al-ettifaq-2026-saudi-pro-league-preview/
-description: Watch Al-Ittihad vs Al-Ettifaq in 2026: Complete Saudi Pro League game preview, live stream options for US viewers, and matchup analysis.
-image: https://images.pexels.com/photos/27899314/pexels-photo-27899314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
-caption: Photo by Eslam Mohammed Abdelmaksoud
+slug: "/al-ittihad-vs-al-ettifaq-2026-saudi-pro-league-preview/"
+description: "Watch Al-Ittihad vs Al-Ettifaq in 2026: Complete Saudi Pro League game preview, live stream options for US viewers, and matchup analysis."
+image: "https://images.pexels.com/photos/27899314/pexels-photo-27899314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+caption: "Photo by Eslam Mohammed Abdelmaksoud"
 personalities:
   - Al-Ittihad
   - Al-Ettifaq
